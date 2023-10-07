@@ -1,3 +1,3 @@
-# This program prints Hello, world 2!
+# This program prints Hello, world 10!
 
 print('Hello, world!')
