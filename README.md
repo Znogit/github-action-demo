@@ -1,2 +1,2 @@
 # github-action-demo
-!!!doesn't work at this time!!!
+it doesn't work as i want
