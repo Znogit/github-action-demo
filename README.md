@@ -1,3 +1,1 @@
-# github-action-demo
-
-it doesn't work as i want
+# github-action-demo-10
